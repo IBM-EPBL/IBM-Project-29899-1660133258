@@ -51,8 +51,11 @@ Dataset Exploration-https://us1.ca.analytics.ibm.com/bi/?perspective=explore&pat
 
 # IBM-Project-29899-1660133258
 Thummala vyshanvi
+
 Estimate the crop yield using data anaytics
 
 data set:https://us01st-cf.zoom.us/web_client/6orpgrb/html/externalLinkPage.html?ref=https://www.ibm.com/account/reg/us-en/signup?formid=urx-47688
+
 data exploration:https://us1.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2FNew%2Bexploration&subView=model0000018345186729_00000003
+
 dataset visualization:https://us1.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2FNew%2Bexploration&subView=model0000018354d2aff5_00000003
