@@ -27,12 +27,16 @@ Data visualization : https://us3.ca.analytics.ibm.com/bi/?perspective=explore&pa
 Tadi Prasanna Reddy
 
 Estimate the crop yield using Data Analytics
+
 Dataset Link - https://drive.google.com/drive/folders/1x5dp_M4q6QKJSPpSEDR5r2zFy3vBcrb9
 
 Dataset Exploration-https://us3.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2FNew%2Bexploration&subView=model000001833c7e3559_00000004
 
 Dataset visualization-https://us3.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2F50STARTUP%2528DATA%2BVISULAIZATION%2529&subView=starting%20points
 
+Dataset Link: https://drive.google.com/drive/folders/1x5dp_M4q6QKJSPpSEDR5r2zFy3vBcrb9
+
+Dashboard:https://us3.ca.analytics.ibm.com/bi/perspective=dashboard&pathRef=.my_folders%2Fpharmaset%2Bdashboard&action=view&mode=dashboard&subView=model00000183745b71a2_00000002
 
 # IBM-Project-29899-1660133258
 pothuri sailahari
