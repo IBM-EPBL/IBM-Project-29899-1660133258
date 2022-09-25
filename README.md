@@ -68,3 +68,6 @@ data set:https://us01st-cf.zoom.us/web_client/6orpgrb/html/externalLinkPage.html
 data exploration:https://us1.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2FNew%2Bexploration&subView=model0000018345186729_00000003
 
 dataset visualization:https://us1.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2FNew%2Bexploration&subView=model0000018354d2aff5_00000003
+
+DASHBOARD
+https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FNew%2Bdashboard&action=view&mode=dashboard&subView=model00000183759148c0_00000000
