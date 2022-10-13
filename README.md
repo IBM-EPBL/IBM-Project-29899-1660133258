@@ -40,6 +40,8 @@ Dataset Link: https://drive.google.com/drive/folders/1x5dp_M4q6QKJSPpSEDR5r2zFy3
 
 Dashboard:https://us3.ca.analytics.ibm.com/bi/perspective=dashboard&pathRef=.my_folders%2Fpharmaset%2Bdashboard&action=view&mode=dashboard&subView=model00000183745b71a2_00000002
 
+Data visualization charts: https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2Fdata%2Bvisualization%2Bcharts&action=view&mode=dashboard&subView=model00000183d200f284_00000000
+
 
 
 # IBM-Project-29899-1660133258
